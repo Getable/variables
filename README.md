@@ -1,4 +1,4 @@
-# variables [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-url]][daviddm-image]
+# variables [![NPM version][npm-image]][npm-url]
 
 CSS variables
 
@@ -29,26 +29,8 @@ npm i -S @getable/variables
 ## Usage
 
 ```js
-var variables = require('@getable/variables')
-
-variables('Rainbow')
+@import "@getable/variables"
 ```
-
-## Methods
-### get `(<String> string)`
-Returns the string passed to it.
-
-## Events
-### myEvent `(<String> myString)`
-Emitted when x happens. Passes `myString` which is a y.
-
-## Tests
-Tests are in [tape](https://github.com/substack/tape).
-
-
-* `npm test` will run the tests in a browser
-* `npm run tdd` will run the tests in a browser on every file change.
-
 
 ## Developing
 To publish, run `npm run release -- [{patch,minor,major}]`
