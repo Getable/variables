@@ -1,5 +1,5 @@
 {
-  "version": "0.0.0",
+  "version": "1.0.0",
   "name": "@getable/variables",
   "description": "CSS variables",
   "author": {
@@ -8,7 +8,7 @@
     "url": "http://byjoeybaker.com"
   },
   "repository": "Getable/variables",
-  "license": "Artistic 2.0",
+  "license": "Artistic-2.0",
   "directories": {
     "test": "test"
   },
@@ -38,7 +38,6 @@
       "update": "PATH=$PATH:/usr/local/bin:/usr/local/sbin && npm install"
     }
   },
-  "license": "Artistic-2.0",
   "main": "index.css",
   "browser": "index.css",
   "devDependencies": {
