@@ -8,11 +8,6 @@ CSS variables
 
 - [Install](#install)
 - [Usage](#usage)
-- [Methods](#methods)
-  - [get `(<String> string)`](#get-string-string)
-- [Events](#events)
-  - [myEvent `(<String> myString)`](#myevent-string-mystring)
-- [Tests](#tests)
 - [Developing](#developing)
   - [Requirements](#requirements)
 - [License](#license)
