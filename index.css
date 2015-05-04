@@ -1,0 +1,65 @@
+:root {
+  --color-black30:      rgb(40,42,45);
+  --color-black10:      rgb(56,57,62);
+  /* dark grey */
+  --color-grey70:       rgb(79,79,79);
+  /* grey */
+  --color-grey50:       rgb(155,155,155);
+  /*lightish-grey */
+  --color-grey10Highlight: rgb(199,201,201);
+  --color-grey30:       rgb(186,186,186);
+  /* light-grey */
+  --color-grey10:       rgb(212,212,212);
+  /* really-light-grey*/
+  --color-white30Highlight: rgb(239,240,242);
+  --color-white30:      rgb(246,246,246);
+  /* white */
+  --color-white10:      rgb(255,255,255);
+  /* red */
+  /* destructive action, irreversible */
+  --color-danger:          rgb(181,61,47);
+  --color-dangerHighlight: rgb(174,53,47);
+  /* a dark-red */
+  --color-dangerAccent:    rgb(157,43,7);
+  /* yellow */
+  /* scheduled state, active tabs */
+  --color-active:       rgb(251, 177, 22);
+  /* orange */
+  /* overdue, error */
+  --color-warning:      rgb(238,112,0);
+  /* green */
+  /* call to action */
+  --color-cta:          rgb(106,173,77);
+  --color-ctaHighlight: rgb(90,161,61);
+  /* a dark green */
+  --color-ctaAccent:    rgb(48,111,22);
+  /* light green */
+  --color-success:      rgb(126,211,33);
+  /* blue */
+  --color-new:              rgb(57,197,218);
+  --color-brand-supplier:   rgb(0, 90, 177);
+
+  /* sizes */
+  --padding-xsmall:    0.3rem;
+  --padding-small:     .5rem;
+  --padding-normal:    0.75rem;
+  --padding-large:     1.5rem;
+  --padding-xLarge:    2.5rem;
+
+  /* type */
+  --fontSize-default: 14px;
+
+  --fontSize-h1: 1.6rem;
+  --fontSize-h2: 1.3rem;
+  --fontSize-h3: 1.3rem;
+  --fontSize-h4: 1.15rem;
+  --fontSize-h5: 0.85rem;
+
+  --fontFamily-default: 'Lato', sans-serif;
+
+  --fontWeight-lato-bold: 700;
+  --fontWeight-lato-normal: 400;
+
+  --lineHeight-normal: 1.4;
+  --lineHeight-small: 1.3;
+}
